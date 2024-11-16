@@ -1,0 +1,28 @@
+
+
+.assiment{
+    padding-top: 50px;
+    text-align: center;
+}
+
+
+.assiment h1{
+    font-size: 80px;
+    font-family: Impact;
+    margin: 50 0;
+}
+.assiment h2{
+    font-size: 35px;
+}
+.assiment button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.assiment button:hover{
+    background-color: green;
+}
+.assiment h3{
+    font-size: 35px;
+}
